@@ -1,7 +1,7 @@
 #include 'totvs.ch'
 
 CLASS new_advpl_class
-
+	//Comentario
 	METHOD New() CONSTRUCTOR
 
 ENDCLASS
